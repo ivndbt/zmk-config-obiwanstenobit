@@ -1,0 +1,6 @@
+if SHIELD_OBIWANSTENOBIT
+
+config ZMK_KEYBOARD_NAME
+    default "OBIWANSTENOBIT"
+
+endif

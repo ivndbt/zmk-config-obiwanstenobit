@@ -1,0 +1,10 @@
+file_format: "1"
+id: obiwanstenobit
+name: obiwanstenobit
+type: shield
+url: https://github.com/ivndbt/obiwanstenobit/
+requires: [pro_micro]
+exposes: [power]
+features:
+  - keys
+  - studio
