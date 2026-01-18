@@ -10,7 +10,7 @@
 / {
     chosen {
         zmk,kscan = &kscan0;
-        zmk,physical-layout = &30k_layout;
+        zmk,physical-layout = &k30_layout;
     };
 
     kscan0: kscan {
@@ -36,7 +36,7 @@
             ;
     };
 
-    30k_transform: matrix_transform {
+    k30_transform: matrix_transform {
         compatible = "zmk,matrix-transform";
         rows = <3>;
         columns = <10>;
@@ -48,9 +48,9 @@
     };
 };
 
-&30k_layout {
+&k30_layout {
     kscan = <&kscan0>;
-    transform = <&30k_transform>;
+    transform = <&k30_transform>;
 };
 
 

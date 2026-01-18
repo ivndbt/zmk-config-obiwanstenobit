@@ -7,12 +7,12 @@
  #include <physical_layouts.dtsi>
 
 / {
-    30k_layout: 30k_layout {
+    k30_layout: k30_layout {
         compatible = "zmk,physical-layout";
         display-name = "30 Keys Layout";
         
         kscan = <&kscan0>;
-        transform = <&30k_transform>;
+        transform = <&k30_transform>;
 
         keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 100  700    0       0     0     0>
