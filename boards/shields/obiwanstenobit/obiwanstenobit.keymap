@@ -20,9 +20,9 @@
 //                                                                              
 //                     |  #  |  A  |  O  |   |  E  |  U  |  #  |                  
             bindings = <
-&mo 1   &kp S   &kp T   &kp P       &kp H   &kp LS(PLUS)    &kp LS(PLUS)    &kp F   &kp P       &kp L   &kp T   &kp D
-&mo 2   &kp S   &kp K   &kp W       &kp R   &kp LS(PLUS)    &kp LS(PLUS)    &kp R   &kp B       &kp G   &kp S   &kp Z
-                        &kp NUHS    &kp A   &kp O           &kp E           &kp U   &kp NUHS                          
+&mo 1   &kp S   &kp T   &kp P       &kp H   &kp LS(EQUAL)   &kp LS(EQUAL)   &kp F   &kp P       &kp L   &kp T   &kp D
+&mo 2   &kp S   &kp K   &kp W       &kp R   &kp LS(EQUAL)   &kp LS(EQUAL)   &kp R   &kp B       &kp G   &kp S   &kp Z
+                        &kp RA(SQT) &kp A   &kp O           &kp E           &kp U   &kp RA(SQT)                          
             >;
         };
 
