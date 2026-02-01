@@ -1,6 +1,6 @@
 # ZMK files for ObiWanStenobit keyboard
 
-Firmware configuration and keymap definitions for the ObiWanStenobit keyboard powered by [ZMK Firmware](https://zmk.dev/).
+Firmware configuration and keymap definitions for the [ObiWanStenobit](https://github.com/ivndbt/obiwanstenobit) keyboard powered by [ZMK Firmware](https://zmk.dev/).
 
 ## Important Notice
 
